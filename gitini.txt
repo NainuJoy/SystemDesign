@@ -1,0 +1,15 @@
+USING GIT:
+
+Step 1: Go to your github account and create a repository with a name(lets say name of your project). We are creating a repository with the name myproject
+Step 2: Make a folder with the name of your project and change your current directory to that  directory.
+
+mkdir myproject
+
+
+cd myproject
+Step 3: Now we want to initiate Git for this folder
+
+git init
+Step 4: Now we will set up the remote, which tells git where the repository is located.
+
+git remote add origin  https://github.com/your_username/myproject.git

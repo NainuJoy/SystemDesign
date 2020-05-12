@@ -1,0 +1,11 @@
+
+CONFIGURING GIT:
+
+Step 1: Go back to the terminal and type this to configure git
+
+
+git config --global user.name “your_username”
+
+Step 2: Now type this to link your email too.
+
+git config --global user.email “your_emailid”
